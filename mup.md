@@ -8,4 +8,4 @@
 	No such file
 ```
 
-For every app always run `mup setup` before fo running `mup deploy`.
+For every app always run `mup setup` before running `mup deploy`.
