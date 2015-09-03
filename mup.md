@@ -9,3 +9,11 @@
 ```
 
 For every app always run `mup setup` before running `mup deploy`.
+
+### Error : Cannot connect to localhost:PORT
+
+Always check what is logged by app :
+
+```
+mup logs -fn 400
+```
